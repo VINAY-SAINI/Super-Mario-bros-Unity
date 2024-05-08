@@ -28,4 +28,4 @@ The codebase for this project is well-organized and clean, making it easy to und
 ## Credits:
 - Developed by Vinay Saini
 - Original Super Mario Bros game created by Nintendo.
-- 
+
