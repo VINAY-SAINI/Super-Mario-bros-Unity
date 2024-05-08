@@ -1,8 +1,8 @@
-Sure, here's a sample README file for your Super Mario Bros game level 1-1 in Unity:
-
----
 
 # Super Mario Bros - Level 1-1
+
+##GAME PLAY
+![videoplayback](https://github.com/VINAY-SAINI/Super-Mario-bros-Unity/assets/65601865/2b2767df-8bc2-455e-893f-4face208ead9)
 
 ## Description:
 Welcome to Super Mario Bros - Level 1-1! This Unity project recreates the iconic first level of the classic game, complete with accurate assets and clean code. Players can control Mario using the arrow keys for movement and the space key to jump.
