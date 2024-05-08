@@ -1,7 +1,7 @@
 
 # Super Mario Bros - Level 1-1
 
-##GAME PLAY
+## GAME PLAY
 ![videoplayback](https://github.com/VINAY-SAINI/Super-Mario-bros-Unity/assets/65601865/2b2767df-8bc2-455e-893f-4face208ead9)
 
 ## Description:
@@ -16,9 +16,6 @@ All assets used in this project are highly accurate to the original Super Mario 
 
 ## Code:
 The codebase for this project is well-organized and clean, making it easy to understand and modify. It utilizes best practices to ensure smooth gameplay and efficient performance.
-
-## Requirements:
-- Unity 20XX.XX or later.
 
 ## How to Play:
 1. Clone or download the project files from the repository.
